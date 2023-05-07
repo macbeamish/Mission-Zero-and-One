@@ -27,9 +27,9 @@ const Navbar = () => {
   </div>
   <div className="navbar navbar-expand-md navbar-dark bg-darkest shadow-sm">
     <div className="container">
-      <button href="#" className="navbar-brand d-flex align-items-center">
+      <a href="https://main--mission-possible-dummy-frontend.netlify.app/" className="navbar-brand d-flex align-items-center">
         <img className="rounded-circle nav-logo"  src={logo} alt="logo" />
-        <strong className="px-5">Mission Possible</strong></button>
+        <strong className="px-5">Mission Possible</strong></a>
         <div class="navbarr-links">
           <ul>
             <li><a href="https://main--mission-possible-dummy-frontend.netlify.app/">FAQ</a></li>

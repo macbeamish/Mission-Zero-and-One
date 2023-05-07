@@ -15,11 +15,11 @@ const Navbar = () => {
         <div className="col-sm-4 offset-md-1 py-4">
           <h4 className="text-white">Menu</h4>
           <ul className="list-unstyled">
-            <li><button href="#" className="text-white">FAQ</button></li>
-            <li><button href="#" className="text-white">Contact Us</button></li>
-            <li><button href="#" className="text-white">Sign Up</button></li>
-            <li><button href="#" className="text-white">Log In</button></li>
-            <li><button href="#" className="text-white">Become A Guide</button></li>
+            <li><a href="https://main--mission-possible-dummy-frontend.netlify.app/" className="text-white">FAQ</a></li>
+            <li><a href="https://main--mission-possible-dummy-frontend.netlify.app/" className="text-white">Contact Us</a></li>
+            <li><a href="https://main--mission-possible-dummy-frontend.netlify.app/" className="text-white">Sign Up</a></li>
+            <li><a href="https://main--mission-possible-dummy-frontend.netlify.app/" className="text-white">Log In</a></li>
+            <li><a href="https://main--mission-possible-dummy-frontend.netlify.app/" className="text-white">Become A Guide</a></li>
           </ul>
         </div>
       </div>
@@ -32,10 +32,10 @@ const Navbar = () => {
         <strong className="px-5">Mission Possible</strong></button>
         <div class="navbarr-links">
           <ul>
-            <li><button href="#">FAQ</button></li>
-            <li><button href="#">About</button></li>
-            <li><button href="#">Contact</button></li>
-            <li><button className='btn-light text-light' href = "# ">Log In</button></li>
+            <li><a href="https://main--mission-possible-dummy-frontend.netlify.app/">FAQ</a></li>
+            <li><a href="https://main--mission-possible-dummy-frontend.netlify.app/">About</a></li>
+            <li><a href="https://main--mission-possible-dummy-frontend.netlify.app/">Contact</a></li>
+            <li><a className='btn-light text-light' href = "https://main--mission-possible-dummy-frontend.netlify.app/ ">Log In</a></li>
           </ul>
         </div>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">

@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.de396a9b.css",
+    "main.js": "/static/js/main.ea041e3c.js",
+    "static/media/camp-hero.png": "/static/media/camp-hero.336ed7314c36fb70bfbb.png",
+    "static/media/snorkelling.jpg": "/static/media/snorkelling.be3526fba0d1f54ab48e.jpg",
+    "static/media/rock-climbing.jpg": "/static/media/rock-climbing.caf311b2bb9c1c606caf.jpg",
+    "static/media/glacier.jpg": "/static/media/glacier.74d72b4da68572a87ffe.jpg",
+    "static/media/mountaineer.jpg": "/static/media/mountaineer.b44dcfa90096df927d12.jpg",
+    "static/media/surfing.jpg": "/static/media/surfing.44a48f5633bc76429f64.jpg",
+    "static/media/fly-fishing.jpg": "/static/media/fly-fishing.a362c196caac23b199ac.jpg",
+    "static/media/logo-small.png": "/static/media/logo-small.1c2ed6c300c66eefdcb7.png",
+    "index.html": "/index.html",
+    "main.de396a9b.css.map": "/static/css/main.de396a9b.css.map",
+    "main.ea041e3c.js.map": "/static/js/main.ea041e3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de396a9b.css",
+    "static/js/main.ea041e3c.js"
+  ]
+}

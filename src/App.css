@@ -114,6 +114,7 @@ html {
 .search-button{
     font-size: 2.5vh;
     font-weight: bold;
+    height:5vh;
 }
 
 .bg-darkest{

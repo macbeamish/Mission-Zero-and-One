@@ -1,5 +1,5 @@
 import React from 'react';
-import hero from './img/camp-hero.png'
+// import hero from './img/camp-hero.png'
 const Hero = () => {
     return(
         <section className="py-5 text-center hero">
@@ -9,7 +9,7 @@ const Hero = () => {
             <p className="lead text-light">Our Mission is to connect you with expert guides to take you to the worlds most remote and spectacular places</p>
             <p>
               <input className="rounded searchbar text-black" placeholder='Find your next adventure!'></input>
-              <a href="#" className="btn search-button  btn-dark btn-secondary my-2">Go!</a>
+              <button className="btn search-button  btn-dark btn-secondary my-2">Go!</button>
             </p>
           </div>
         </div>

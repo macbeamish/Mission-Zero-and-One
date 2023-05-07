@@ -108,7 +108,7 @@ const Main = () => {
 <div className='row row-cols-3'>
     <div className='col-4 bg-darkest'></div>
     <div className='col-4 pb-5 bg-darkest'>
-        <iframe
+        <iframe title="chatbot"
             allow="microphone;"
             width="350"
             height="430"
